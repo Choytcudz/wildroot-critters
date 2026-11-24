@@ -1,0 +1,24 @@
+Wildroot Critters Personal-Use License 1.0
+
+Copyright (c) 2026 Joseph C. Hoyt. All rights reserved.
+
+Permission is granted to download, install, and run an unmodified official
+Wildroot Critters release for personal, non-commercial entertainment.
+
+You may not, except where applicable law does not allow a restriction:
+
+1. copy, share, redistribute, publish, upload, sell, rent, sublicense, or
+   otherwise provide the game or any portion of it to another person;
+2. modify, adapt, translate, reverse engineer, decompile, disassemble, or
+   create derivative works from the game, its code, or its assets;
+3. extract, reuse, or distribute its artwork, audio, text, characters,
+   names, models, data, or other assets; or
+4. remove or alter copyright, trademark, or license notices.
+
+This license does not grant access to, or any right to, the game source code,
+development history, private build systems, or staging materials. Wildroot
+Critters is not open source.
+
+THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM
+EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM,
+DAMAGE, OR OTHER LIABILITY ARISING FROM USE OF THE GAME.

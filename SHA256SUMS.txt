@@ -1,0 +1,2 @@
+d18485b2df85edc441d98f1769f136c0aebc9e0106968ec6f6eddcb15abe5326  WildrootCritters-macOS.zip
+4741d9c208cf732aa2d359faf617e3a63104a26824379f1050ced1e18dbf6984  WildrootCritters-Windows.zip
